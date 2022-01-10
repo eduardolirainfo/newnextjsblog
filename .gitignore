@@ -36,3 +36,6 @@ yarn-error.log*
 /info
 /objects
 /branches
+
+# Local Netlify folder
+.netlify
